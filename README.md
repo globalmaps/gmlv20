@@ -9,4 +9,4 @@ Credit: "Global Map of Latvia ©ISCGM / Latvian Geospatial Information Agency"
 
 Contact: Latvian Geospatial Information Agency.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/latvia.png)
+E-mail: ![email](email.png)
